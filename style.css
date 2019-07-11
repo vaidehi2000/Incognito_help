@@ -1,0 +1,29 @@
+.closing{
+	border-radius: 50%;
+	padding: 0;
+}
+
+/*body{background-color:#EEE;}
+
+#container{background-color: white;
+color: black
+margin-right: auto;}
+#title{
+	background-color:#66ccff;
+	color: black;
+	text-align: center;
+}*/
+
+#grad1 {
+  height: 200px;
+  background-color: red; /* For browsers that do not support gradients */
+  background-image: linear-gradient(black, blue); /* Standard syntax (must be last) */
+  background-size: cover;
+}
+#col{
+	color: white;
+}
+h1 {
+  color: white;
+  text-shadow: 1px 1px 2px black, 0 0 25px darkblue, 0 0 5px darkblue;
+}
